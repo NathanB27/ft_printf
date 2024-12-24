@@ -29,7 +29,7 @@ Ce projet met en avant :
 Clonez ce repository et compilez le projet en utilisant `Makefile` :
 
 ```bash
-git clone <URL_DU_REPOSITORY>
+git clone git@github.com:NathanB27/ft_printf.git
 cd ft_printf
 make
 ```
